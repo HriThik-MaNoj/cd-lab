@@ -1,0 +1,5 @@
+Line no. 	 Token no. 		 Token 		 Lexeme
+
+      1		       0		 Digit		       1
+      1		       1		 Operator	       +
+      1		       2		 Digit		       1
