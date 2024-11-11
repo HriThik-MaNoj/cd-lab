@@ -1,8 +1,0 @@
-Enter expressions to evaluate:
-3 + 5
-2 * (6 - 4)
-10 / 2 + 3
-Result: 8
-Result: 4
-Result: 8
-
